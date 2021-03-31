@@ -21,9 +21,9 @@ form {
     margin-bottom: 4%;
 }
 
-label, input, select, span {
+label, input, select, span, button {
     display: inline-block;
-    margin-top: 2%;
+    margin-top: 3%;
 }
 
 label {
