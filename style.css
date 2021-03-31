@@ -3,6 +3,9 @@ body {
     font-family: Arial;
     color: white;
 }
-h1{color:green;}
+h1{
+    font-family: Verdana;
+    color:grey;
+}
 
 
