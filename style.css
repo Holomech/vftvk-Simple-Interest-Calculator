@@ -7,5 +7,12 @@ h1{
     font-family: Verdana;
     color:grey;
 }
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+}
 
 
