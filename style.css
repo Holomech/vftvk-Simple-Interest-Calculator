@@ -16,4 +16,16 @@ h1{
     border-radius: 25px;
 }
 
+form {
+    margin-left: 17%;
+    margin-bottom: 4%;
+}
 
+label, input, select, span {
+    display: inline-block;
+    margin-top: 2%;
+}
+
+label {
+    width: 27%;
+}
