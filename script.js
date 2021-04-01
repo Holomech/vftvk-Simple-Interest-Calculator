@@ -1,7 +1,7 @@
 function compute()
 {
     let principal = parseInt(document.getElementById("principal").value);
-    if (principal <= 0)
+    if (principal <= 0 || isNaN(principal))
     {
         alert("Enter a positive number as Amount.");
         document.getElementById("principal").focus();
